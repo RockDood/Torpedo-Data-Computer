@@ -1,1 +1,1 @@
-Torpedo Data Computer
+#[ModKit Wiki](../../wiki)
